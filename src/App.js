@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Making Initial setup.
+          Making Initial Remote commit.
         </p>
         <a
           className="App-link"
